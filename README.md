@@ -1,1 +1,1 @@
-Refer to `details.pdf` for complete information
+Refer to [details.pdf](details.pdf)

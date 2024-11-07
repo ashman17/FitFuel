@@ -1,4 +1,4 @@
-Refer to [details.pdf](details.pdf) for complete information and details
+### Refer to [details.pdf](details.pdf) for complete information.
 
 ## Use Case Diagram
 ![Use Case Diagram - Images/Use Case Diagram.png](https://github.com/ashman17/FitFuel/blob/90bbb82535a96eabe53792cbfad7ccb02759909b/Images/Use%20Case%20Diagram.png)
